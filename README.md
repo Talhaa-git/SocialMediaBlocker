@@ -13,6 +13,9 @@ see documentation here [docs](https://docs.python.org/3/library/tk.html)
 ```bash
 pip install TKinker
 ```
+## Download
+Download the SocialMediaBlocker.zip
+to run the app, click the WebsiteBlocker.cmd with administrative privileges 
 
 
 ## Contributing
