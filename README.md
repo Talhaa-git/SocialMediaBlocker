@@ -15,6 +15,7 @@ pip install TKinker
 ```
 ## Download
 Download the SocialMediaBlocker.zip
+
 to run the app, click the WebsiteBlocker.cmd with administrative privileges 
 
 
